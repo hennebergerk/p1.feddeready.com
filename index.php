@@ -3,7 +3,11 @@
   <meta charset="utf-8">
   <title>Project 1</title>
   <meta name="keywords" content="Welcome to P1">
-  <link rel="stylesheet" href="css/style.css?v=1">
+	<style>
+	hr {color:#000000;}
+	p {margin-left:20px;}
+	body {background-color:#b0c4de;}
+</style>
 </head>
 
 <body>
