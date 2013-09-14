@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <title>Project 1</title>
-  <meta name="projects" content="Welcome to P1">
+  <meta name="keywords" content="Welcome to P1">
   <link rel="stylesheet" href="css/style.css?v=1">
 </head>
 
